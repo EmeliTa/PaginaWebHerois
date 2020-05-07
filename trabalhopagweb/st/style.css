@@ -1,0 +1,56 @@
+body{
+    background: url(https://wallpaperaccess.com/full/379394.jpg) repeat;
+    width: 100%;
+    height: 100%;
+}
+.InicioSite a {
+    text-decoration: none; 
+    color: #FF7F00;
+}
+.InicioSite{
+    text-align: center;
+    
+}
+.InicioSite a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.content {
+ background: white;
+ width: 750;
+ padding: 25;
+ margin: 100px auto;
+ border-radius: 10px;
+}
+#imgpos{
+    position: absolute;
+    left: 283px;
+  
+
+}
+.paragrafoInicio{
+    color: #FF7F00;
+    text-align: center;
+}
+.paragrafo1{
+    color: #FF8C00;
+    font-size: 50px;
+    
+}
+.paragrafohistoria{
+    font-size: 12;
+    font-family:Arial;
+    line-height:1.5;
+}
+
+.paragrafoPoder{
+    color: #FF8C00;
+    font-size: 30px;
+}
+
+.paragrafosub{
+    color: #FF7F50;
+    font-size: 25px;
+}
+
+
